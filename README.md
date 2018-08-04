@@ -4,6 +4,7 @@ speech to text / Recognized worlds/ Answer back
 language C#
 if you want to check download all files in same folder
 no need to online
+i alse upload video name ###jarves test### 
 run speech-to-text.exe 
 #####commands are 
 1...jarves
